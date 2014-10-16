@@ -88,5 +88,5 @@ notification:
   email: false
 
 # reduce depth (history) of git checkout
-git:
-  depth: 30
+
+
