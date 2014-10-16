@@ -1,4 +1,4 @@
-language: test
+language: php
 
 # run tests on php misc php versions
 php:
